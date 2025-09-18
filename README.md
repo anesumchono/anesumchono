@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anesumchono
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Informatic
+- 👀 I’m interested in web app and mobile applications
+- 🌱 I’m currently learning Informatics
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me my eamil dms 
+- 📫 How to reach me.... email dms 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
